@@ -3,7 +3,7 @@
 
         <div class="text-dark order-2 order-md-1">
             <span class="text-muted fw-semibold me-1">&copy; 2024</span>
-            <a href="#" target="_blank" class="text-gray-800 text-hover-primary">CPCM Coding Test - Nico Lahara</a>
+            <a href="#" target="_blank" class="text-gray-800 text-hover-primary">Simple Management</a>
         </div>
     </div>
 </div>

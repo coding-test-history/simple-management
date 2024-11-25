@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <title>CPCM Code Test</title>
+    <title>Simple Management</title>
     <meta charset="utf-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
